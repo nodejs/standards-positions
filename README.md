@@ -14,7 +14,7 @@ Node.js implements support for multiple internet and web standards (TCP, HTTP, T
 
 ## Process
 
-We will apply one of three labels to new specifications:
+We will apply one of several possible labels to new specifications:
 
 * “asking for modification”
 * “no concerns so far”
