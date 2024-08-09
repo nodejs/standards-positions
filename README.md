@@ -1,7 +1,7 @@
 # standards-positions
-The Node.js Projects Official Positions on various standards proposals 
+The Node.js Projects Official Positions on various standards proposals
 
-To be filled out soon. This repository will contain the official positons of the Node.js project towards various standards proposals that potentially impact the runtime. Please stay tuned for updates.
+To be filled out soon. This repository will contain the official positions of the Node.js project towards various standards proposals that potentially impact the runtime. Please stay tuned for updates.
 
 Refs: https://github.com/nodejs/admin/issues/841
 
@@ -30,10 +30,10 @@ We might also use the following labels for specifications where we have not form
 * under consideration - Node.js has not taken a position on this work and is gathering more information.
 
 An already published position that, for whatever reason, becomes no longer relevant can be marked obsolete.
- 
+
 A proposal to publish an opinion towards a particular specification would come in the form of a new issue in the nodejs/standards-position repository. The issue should identify the spec and the rationale for seeking a position. ***It should not argue a particular position label*** one way or the other but simply ask that the spec be considered. If there are no objections raised to the proposal after seven calendar days, then the proposal is considered accepted and work can start to publish a position.
 
-Each position itself would be published as a separate markdown file in the repository, originating with a pull request whose process for acceptance follows the same process as landing semver-major changes in the core Node.js repository. That is, a position paper cannot land without approval from at least two TSC members and without all relevant feedback having been addressed. Collaborators will be encouraged to follow the respository and actively weigh in where they feel necessary.
+Each position itself would be published as a separate markdown file in the repository, originating with a pull request whose process for acceptance follows the same process as landing semver-major changes in the core Node.js repository. That is, a position paper cannot land without approval from at least two TSC members and without all relevant feedback having been addressed. Collaborators will be encouraged to follow the repository and actively weigh in where they feel necessary.
 
 Positions are living documents that can be revisited and altered as necessary when new information is received or project requirements evolve. We will use the git history to track any changes in position over time.
 
@@ -44,10 +44,10 @@ Positions are living documents that can be revisited and altered as necessary wh
 
 ## Request for Node.js Position on an Emerging Specification
 
-* Specification title: 
-* Specification or proposal URL (if available): 
+* Specification title:
+* Specification or proposal URL (if available):
 * Explainer URL (if available):
-* Proposal author(s) (`@`-mention GitHub accounts): 
+* Proposal author(s) (`@`-mention GitHub accounts):
 * Node.js collaborators or ecosystem members who can provide input (optional)
 
 ### Notes
